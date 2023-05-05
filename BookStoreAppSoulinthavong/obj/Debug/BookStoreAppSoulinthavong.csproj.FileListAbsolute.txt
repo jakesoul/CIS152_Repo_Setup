@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\obj\Debug\BookStoreAppSoulinthavong.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\obj\Debug\BookStoreAppSoulinthavong.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\bin\Debug\BookStoreAppSoulinthavong.exe.config
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\bin\Debug\BookStoreAppSoulinthavong.exe
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\bin\Debug\BookStoreAppSoulinthavong.pdb
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\obj\Debug\BookStoreAppSoulinthavong.exe
+C:\Users\admin\source\repos\BookStoreAppSoulinthavong\obj\Debug\BookStoreAppSoulinthavong.pdb
